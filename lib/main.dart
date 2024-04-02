@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> {
     RiveNavBarItem(
       title: "Chat", 
       controller: RiveController(
-        src: "nav_bar_icons.riv", 
+        src: "assets/nav_bar_icons.riv", 
         artboard: "CHAT", 
         stateMachineName: "CHAT_Interactivity"
       )
@@ -31,7 +31,7 @@ class _MyAppState extends State<MyApp> {
     RiveNavBarItem(
       title: "Search", 
       controller: RiveController(
-        src: "nav_bar_icons.riv", 
+        src: "assets/nav_bar_icons.riv", 
         artboard: "SEARCH", 
         stateMachineName: "SEARCH_Interactivity"
       )
@@ -39,7 +39,7 @@ class _MyAppState extends State<MyApp> {
     RiveNavBarItem(
       title: "Timer", 
       controller: RiveController(
-        src: "nav_bar_icons.riv", 
+        src: "assets/nav_bar_icons.riv", 
         artboard: "TIMER", 
         stateMachineName: "TIMER_Interactivity"
       )
@@ -47,7 +47,7 @@ class _MyAppState extends State<MyApp> {
     RiveNavBarItem(
       title: "Bell", 
       controller: RiveController(
-        src: "nav_bar_icons.riv", 
+        src: "assets/nav_bar_icons.riv", 
         artboard: "BELL", 
         stateMachineName: "BELL_Interactivity"
       )
@@ -55,7 +55,7 @@ class _MyAppState extends State<MyApp> {
     RiveNavBarItem(
       title: "Gallery", 
       controller: RiveController(
-        src: "nav_bar_icons.riv", 
+        src: "assets/nav_bar_icons.riv", 
         artboard: "GALLERY", 
         stateMachineName: "GALLERY_Interactivity"
       )
